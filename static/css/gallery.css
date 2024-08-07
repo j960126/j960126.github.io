@@ -4559,10 +4559,6 @@ img,video {
     width: calc(33% - 5px)
 }
 
-.w-\[calc\(100\%\)\] {
-    width: calc(100%)
-}
-
 .w-fit {
     width: -moz-fit-content;
     width: fit-content
