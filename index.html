@@ -91,18 +91,21 @@
             <div class="relative max-w-[44rem]" data-v-fc9425ac="">
               <div data-v-75bef60a="" data-v-fc9425ac="" id="cardview"
                 class="base-section relative no-scrollbar large GowunDodum style3">
-                <div data-v-75bef60a="" id="card-top"></div> <audio data-v-75bef60a="" loop="loop"
-                  src="https://cdn2.makedear.com/homepage/media/new/10.mp3" playsinline="true" muted="muted"></audio>
-                <div data-v-75bef60a="" id="bgm-banner">
+                <div data-v-75bef60a="" id="card-top"></div>
+                <audio data-v-75bef60a="" loop="loop" src="./static/audio/background_music.mp3" playsinline="true"></audio>
+                <div data-v-75bef60a="" id="bgm-banner" onclick="toggleMusic()">
                   <div data-v-75bef60a=""
                     class="bgmbannericon box-content p-4 absolute top-0 right-8 z-[9999] opacity-0 bg-[#eee] bg-opacity-50 rounded-full text-[#222] transition-all ease-in-out duration-500 overflow-hidden cursor-pointer"
-                    style="top: 0px; opacity: 0; pointer-events: none;"><a data-v-75bef60a="" draggable="false"><svg
+                    style="position: fixed; height: 2rem; width: 2rem; top: 2rem; opacity: 1;"><a data-v-75bef60a="" draggable="false">
+                      <svg
                         data-v-75bef60a="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"
                         stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
-                        <path data-v-75bef60a=""
+                        <path id="btn-music" data-v-75bef60a=""
                           d="M16 9L22 15M22 9L16 15M13 3L7 8H5C3.89543 8 3 8.89543 3 10V14C3 15.1046 3.89543 16 5 16H7L13 21V3Z">
                         </path>
-                      </svg></a></div>
+                      </svg>
+                    </a>
+                  </div>
                 </div>
                 <div data-v-75bef60a="" class="overflow-hidden bg-white">
                   <section data-v-75bef60a="" id="section-main"
@@ -1652,8 +1655,6 @@
   const detailWidth = Math.min(window.innerWidth, 800);
   const galleryWidth = Math.min(window.innerWidth - 22, 418);
 
-  console.log(galleryWidth);
-
   const aosElems = document.querySelectorAll(".aos-init");
 
   window.addEventListener('scroll', () => {
@@ -1675,15 +1676,30 @@
     console.log(e.target.innerWidth);
   }
 
+  let isMusicOn = false;
+  const musicBtnPath = document.querySelector("path#btn-music");
+
+  const toggleMusic = () => {
+    if(isMusicOn){
+      stopMusic();
+    }
+    else{
+      playMusic();
+    }
+
+    isMusicOn = !isMusicOn;
+  }
+
   const playMusic = () => {
     const audio = document.querySelector('audio');
     audio.play();
+    musicBtnPath.setAttribute('d', 'M16 9C16.5 9.5 17 10.5 17 12C17 13.5 16.5 14.5 16 15M19 6C20.5 7.5 21 10 21 12C21 14 20.5 16.5 19 18M13 3L7 8H5C3.89543 8 3 8.89543 3 10V14C3 15.1046 3.89543 16 5 16H7L13 21V3Z');    
   }
 
   const stopMusic = () => {
     const audio = document.querySelector('audio');
     audio.pause();
-    audio.currentTime = 0;
+    musicBtnPath.setAttribute('d', 'M16 9L22 15M22 9L16 15M13 3L7 8H5C3.89543 8 3 8.89543 3 10V14C3 15.1046 3.89543 16 5 16H7L13 21V3Z');
   }
 
   const openModal = (id) => {
@@ -1764,14 +1780,6 @@
   }
 
   Kakao.init('27564ef0f4e2585c31e0bbe0b1e416ac');
-
-  // playMusic();
-
-  // document.querySelectorAll(".select-none").forEach(
-  //   item => {
-  //     item.setAttribute("style", `width: ${window.innerWidth}px; display: inline-block;`);
-  //   }
-  // )
 
   console.log("start");
 
