@@ -6029,7 +6029,7 @@ img,video {
 
 #imageViewer {
     position: fixed;
-    z-index: 1300;
+    z-index: 9999;
     inset: 0px;
 }
 
