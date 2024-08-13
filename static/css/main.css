@@ -7874,14 +7874,14 @@ span mark {
 .base-section.medium .subtitle p,
 .text-input-sync.medium .subtitle,
 .text-input-sync.medium .subtitle p {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 2.8rem
 }
 
 .apply-global-font.medium .InkLipquid,
 .base-section.medium .InkLipquid,
 .text-input-sync.medium .InkLipquid {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 2.8rem
 }
 
@@ -7933,7 +7933,7 @@ span mark {
 .text-input-sync.medium .text-lg,
 .text-input-sync.medium .text-lg p,
 .text-input-sync.medium.text-lg {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 2.4rem
 }
 
@@ -7946,7 +7946,7 @@ span mark {
 .text-input-sync.medium .text-xl,
 .text-input-sync.medium .text-xl p,
 .text-input-sync.medium.text-xl {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 2.7rem
 }
 
@@ -7972,14 +7972,14 @@ span mark {
 .apply-global-font.large,
 .base-section.large,
 .text-input-sync.large {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 3.2rem
 }
 
 .apply-global-font.large .section-label,
 .base-section.large .section-label,
 .text-input-sync.large .section-label {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   letter-spacing: .25rem
 }
 
@@ -7989,7 +7989,7 @@ span mark {
 .base-section.large .subtitle p,
 .text-input-sync.large .subtitle,
 .text-input-sync.large .subtitle p {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 3.2rem
 }
 
@@ -8028,7 +8028,7 @@ span mark {
 .text-input-sync.large .text-base,
 .text-input-sync.large .text-base p,
 .text-input-sync.large.text-base {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 2.4rem
 }
 
@@ -8041,7 +8041,7 @@ span mark {
 .text-input-sync.large .text-lg,
 .text-input-sync.large .text-lg p,
 .text-input-sync.large.text-lg {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 2.7rem
 }
 
@@ -8074,14 +8074,14 @@ span mark {
 .apply-global-font.huge,
 .base-section.huge,
 .text-input-sync.huge {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 3.6rem
 }
 
 .apply-global-font.huge .section-label,
 .base-section.huge .section-label,
 .text-input-sync.huge .section-label {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   letter-spacing: .3rem
 }
 
@@ -8117,7 +8117,7 @@ span mark {
 .text-input-sync.huge .text-sm,
 .text-input-sync.huge .text-sm p,
 .text-input-sync.huge.text-sm {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 2.4rem
 }
 
@@ -8130,7 +8130,7 @@ span mark {
 .text-input-sync.huge .text-base,
 .text-input-sync.huge .text-base p,
 .text-input-sync.huge.text-base {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 2.7rem
 }
 
@@ -8206,7 +8206,7 @@ span mark {
 .text-input-sync.size4 .text-xs,
 .text-input-sync.size4 .text-xs p,
 .text-input-sync.size4.text-xs {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 2.4rem
 }
 
@@ -8219,7 +8219,7 @@ span mark {
 .text-input-sync.size4 .text-sm,
 .text-input-sync.size4 .text-sm p,
 .text-input-sync.size4.text-sm {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 2.7rem
 }
 
@@ -8308,7 +8308,7 @@ span mark {
 .text-input-sync.size5 .text-xs,
 .text-input-sync.size5 .text-xs p,
 .text-input-sync.size5.text-xs {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 2.7rem
 }
 
@@ -8594,12 +8594,12 @@ span mark {
 }
 
 .text-lg {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 2.4rem
 }
 
 .text-xl {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 2.7rem
 }
 
@@ -11094,7 +11094,7 @@ span mark {
 }
 
 .medium .id2-section3 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 2.2rem;
   margin-right: 2.6rem
 }
@@ -11104,7 +11104,7 @@ span mark {
 }
 
 .medium .id2-section5 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 2.2rem;
   margin-left: 2.6rem
 }
@@ -11120,7 +11120,7 @@ span mark {
 }
 
 .large .id2-section2 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 2.4rem
 }
 
@@ -11129,7 +11129,7 @@ span mark {
 }
 
 .large .id2-section3 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 2.4rem;
   margin-right: 2.9rem
 }
@@ -11139,13 +11139,13 @@ span mark {
 }
 
 .large .id2-section5 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 2.4rem;
   margin-left: 2.9rem
 }
 
 .large .id2-section6 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 3.2rem;
   padding: 3rem 2rem 6rem
 }
@@ -11155,7 +11155,7 @@ span mark {
 }
 
 .huge .id2-section2 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 2.6rem
 }
 
@@ -11180,7 +11180,7 @@ span mark {
 }
 
 .huge .id2-section6 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 3.6rem;
   padding: 3rem 2rem 6rem
 }
@@ -11310,7 +11310,7 @@ span mark {
 }
 
 .large .id3-section3 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   letter-spacing: .15em
 }
 
@@ -11324,13 +11324,13 @@ span mark {
 }
 
 .large .id3-section4-1 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 2.8rem;
   padding-top: 1.6rem
 }
 
 .large .id3-section5 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 3.2rem;
   padding-top: 1rem
 }
@@ -11352,7 +11352,7 @@ span mark {
 }
 
 .huge .id3-section3 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   letter-spacing: .15em
 }
 
@@ -11365,13 +11365,13 @@ span mark {
 }
 
 .huge .id3-section4-1 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 3rem;
   padding-top: 1.6rem
 }
 
 .huge .id3-section5 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 3.6rem;
   padding-top: 1rem
 }
@@ -11398,7 +11398,7 @@ span mark {
 }
 
 .size4 .id3-section4 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   letter-spacing: -.025em;
   line-height: 3.2rem;
   padding-left: 1.3rem;
@@ -11439,7 +11439,7 @@ span mark {
 }
 
 .size5 .id3-section4 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   letter-spacing: -.025em;
   line-height: 3.6rem;
   padding-left: 1.5rem;
@@ -11501,7 +11501,7 @@ span mark {
 }
 
 .large .id4-section2 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 2.4rem
 }
 
@@ -11518,7 +11518,7 @@ span mark {
 }
 
 .large .id4-section5 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 3.2rem
 }
 
@@ -11531,7 +11531,7 @@ span mark {
 }
 
 .huge .id4-section2 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 2.6rem
 }
 
@@ -11548,7 +11548,7 @@ span mark {
 }
 
 .huge .id4-section5 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 3.6rem
 }
 
@@ -11635,7 +11635,7 @@ span mark {
 }
 
 .large .id5-section1 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   padding-bottom: 2.5rem;
   padding-top: 2.5rem
 }
@@ -11650,14 +11650,14 @@ span mark {
 }
 
 .large .id5-section2 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 3.2rem;
   padding-bottom: 6rem;
   padding-top: 2.6rem
 }
 
 .huge .id5-section1 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   padding-bottom: 2.5rem;
   padding-top: 2.5rem
 }
@@ -11672,7 +11672,7 @@ span mark {
 }
 
 .huge .id5-section2 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 3.6rem;
   padding-bottom: 6rem;
   padding-top: 2.6rem
@@ -11753,20 +11753,20 @@ span mark {
 }
 
 .large .id9-section2 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 2.5rem;
   padding-right: 1rem
 }
 
 .large .id9-section3 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 2.5rem;
   padding-left: .5rem;
   padding-top: 3.4rem
 }
 
 .large .id9-section4 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 3.2rem
 }
 
@@ -11779,20 +11779,20 @@ span mark {
 }
 
 .huge .id9-section2 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 2.8rem;
   padding-right: 1.2rem
 }
 
 .huge .id9-section3 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 2.8rem;
   padding-left: .6rem;
   padding-top: 3.4rem
 }
 
 .huge .id9-section4 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 3.6rem
 }
 
@@ -11866,7 +11866,7 @@ span mark {
 }
 
 .medium .id6-section3 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 2.2rem;
   margin-right: 2.6rem
 }
@@ -11876,7 +11876,7 @@ span mark {
 }
 
 .medium .id6-section5 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 2.2rem;
   margin-left: 2.6rem
 }
@@ -11892,7 +11892,7 @@ span mark {
 }
 
 .large .id6-section2 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 2.4rem
 }
 
@@ -11901,7 +11901,7 @@ span mark {
 }
 
 .large .id6-section3 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 2.4rem;
   margin-right: 2.9rem
 }
@@ -11911,13 +11911,13 @@ span mark {
 }
 
 .large .id6-section5 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 2.4rem;
   margin-left: 2.9rem
 }
 
 .large .id6-section6 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 3.2rem;
   padding: 2rem 2rem 6rem
 }
@@ -11927,7 +11927,7 @@ span mark {
 }
 
 .huge .id6-section2 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 2.6rem
 }
 
@@ -11952,7 +11952,7 @@ span mark {
 }
 
 .huge .id6-section6 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 3.6rem;
   padding: 2rem 2rem 6rem
 }
@@ -12082,7 +12082,7 @@ span mark {
 }
 
 .large .id7-section3 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   letter-spacing: .15em
 }
 
@@ -12096,13 +12096,13 @@ span mark {
 }
 
 .large .id7-section4-1 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 2.8rem;
   padding-top: 1.6rem
 }
 
 .large .id7-section5 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 3.2rem;
   padding-top: 1rem
 }
@@ -12124,7 +12124,7 @@ span mark {
 }
 
 .huge .id7-section3 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   letter-spacing: .15em
 }
 
@@ -12137,13 +12137,13 @@ span mark {
 }
 
 .huge .id7-section4-1 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 3rem;
   padding-top: 1.6rem
 }
 
 .huge .id7-section5 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 3.6rem;
   padding-top: 1rem
 }
@@ -12170,7 +12170,7 @@ span mark {
 }
 
 .size4 .id7-section4 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   letter-spacing: -.025em;
   line-height: 3.2rem;
   padding-left: 1.3rem;
@@ -12211,7 +12211,7 @@ span mark {
 }
 
 .size5 .id7-section4 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   letter-spacing: -.025em;
   line-height: 3.6rem;
   padding-left: 1.5rem;
@@ -12239,7 +12239,7 @@ span mark {
 }
 
 .medium .id11-section2 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 3.2rem;
   padding-bottom: .6rem
 }
@@ -12260,7 +12260,7 @@ span mark {
 .large .id11-section3,
 .large .id11-section4,
 .large .id11-section5 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 3.2rem
 }
 
@@ -12273,7 +12273,7 @@ span mark {
 .huge .id11-section3,
 .huge .id11-section4,
 .huge .id11-section5 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 3.6rem
 }
 
@@ -12369,7 +12369,7 @@ span mark {
 }
 
 .large .id12-section5 {
-  font-size: 1.6rem;
+  font-size: 2.0rem;
   line-height: 2.8rem
 }
 
@@ -12404,7 +12404,7 @@ span mark {
 }
 
 .huge .id12-section5 {
-  font-size: 1.8rem;
+  font-size: 2.0rem;
   line-height: 3.1rem
 }
 
